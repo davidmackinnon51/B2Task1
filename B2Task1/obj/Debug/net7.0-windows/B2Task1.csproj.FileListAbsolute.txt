@@ -1,0 +1,17 @@
+C:\Users\david\B2Task1\B2Task1\bin\Debug\net7.0-windows\B2Task1.exe
+C:\Users\david\B2Task1\B2Task1\bin\Debug\net7.0-windows\B2Task1.deps.json
+C:\Users\david\B2Task1\B2Task1\bin\Debug\net7.0-windows\B2Task1.runtimeconfig.json
+C:\Users\david\B2Task1\B2Task1\bin\Debug\net7.0-windows\B2Task1.dll
+C:\Users\david\B2Task1\B2Task1\bin\Debug\net7.0-windows\B2Task1.pdb
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.csproj.AssemblyReference.cache
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.AssemblyInfoInputs.cache
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.AssemblyInfo.cs
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.csproj.CoreCompileInputs.cache
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.dll
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\refint\B2Task1.dll
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.pdb
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.genruntimeconfig.cache
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\ref\B2Task1.dll
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.csproj.GenerateResource.cache
+C:\Users\david\B2Task1\B2Task1\obj\Debug\net7.0-windows\B2Task1.Task1.resources
